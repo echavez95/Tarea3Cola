@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1487213897 source:c:\users\eliezer\documents\estructura de datos\nonversioned\tarea3cola\main.cpp
+	<iostream>
+	<stdlib.h>
+
